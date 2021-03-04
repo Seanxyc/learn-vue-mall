@@ -1,4 +1,4 @@
-# mall
+# learn-vue-mall
 
 ## Project setup
 ```
